@@ -16,10 +16,10 @@ Installs and deploys WordPress on to a single Amazon EC2 instance with a local M
 
 **Parameters**
   
-    DBName
-    DBPassword
-    DBRootPassword
-    DBUser
+    DBName - ******
+    DBPassword - ******
+    DBRootPassword - ******
+    DBUser - ******
     InstanceType - t2.micro
     KeyName - existing key pair  
     SSHLocation - IP address range
