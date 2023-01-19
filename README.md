@@ -9,4 +9,19 @@ Installs and deploys WordPress on to a single Amazon EC2 instance with a local M
 3. Choose **Create stack** With existing resources (import resources)
 4. Choose **Next**
 5. **Specify template** choose **Upload a template file** choose file **Next**
-6. 
+6. **Identify resources** **Next**
+7. **Specify stack details**
+
+# Stack name
+
+**Stack name** WordPress Basic
+
+# Parameters
+
+**DBName** <enter>
+**DBPassword**
+**DBRootPassword**
+**DBUser**
+**InstanceType**
+**KeyName**
+**SSHLocation**
