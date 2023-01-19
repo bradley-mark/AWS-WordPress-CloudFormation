@@ -14,7 +14,7 @@ Installs and deploys WordPress on to a single Amazon EC2 instance with a local M
 
 **Stack name** - WordPress-Basic
   
-  **DBName**
+  _**DBName**
 
   **DBPassword** 
 
