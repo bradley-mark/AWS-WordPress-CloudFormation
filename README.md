@@ -28,3 +28,4 @@ Installs and deploys WordPress on to a single Amazon EC2 instance with a local M
 9. Keep all defaults - **Next**
 10. Review - **Submit**
 
+![image](https://user-images.githubusercontent.com/91480603/213553871-0b445f2f-1930-45d3-a8c8-6344d2fd421e.png)
