@@ -14,16 +14,16 @@ Installs and deploys WordPress on to a single Amazon EC2 instance with a local M
 
 **Stack name** WordPress Basic
 
-**DBName** <enter DBName>
+**DBName** enter DBName
 
-**DBPassword** <enter DBPassword>
+**DBPassword** enter DBPassword
 
-**DBRootPassword** <enter DBRootPassword>
+**DBRootPassword** enter DBRootPassword
 
-**DBUser** <enter DBUser>
+**DBUser** enter DBUser
 
 **InstanceType** t2.micro
 
-**KeyName** <enter Key Pair>
+**KeyName** enter Key Pair
 
-**SSHLocation** <IP address range>
+**SSHLocation** IP address range
