@@ -12,7 +12,7 @@ Installs and deploys WordPress on to a single Amazon EC2 instance with a local M
 6. **Identify resources** **Next**
 7. **Specify stack details** enter details
 
-**Stack name**
+**Stack name** - WordPress Basic
 
 **DBName**
 
@@ -22,8 +22,8 @@ Installs and deploys WordPress on to a single Amazon EC2 instance with a local M
 
 **DBUser**
 
-**InstanceType**
+**InstanceType** - t2.micro
 
-**KeyName**
+**KeyName** - existing key pair
 
-**SSHLocation**
+**SSHLocation** - IP address range
